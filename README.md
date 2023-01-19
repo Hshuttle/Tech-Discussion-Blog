@@ -13,7 +13,7 @@ Log into this blog to discuss your favorite topics in tech!
   <h2 id="#install">Installation Instructions</h2>
   use npm i in the command line
   <h2 id="usage">Usage Information</h2>
-  run npm start to open the application.  You can access the app through heroku here:
+  run npm start to open the application.  You can access the app through heroku here:https://dashboard.heroku.com/apps/pure-peak-23909
   <h2 id="contribution">Contribution Guidelines</h2>
   No contributors
   <h2 id="test-instr">Test Instructions</h2>
